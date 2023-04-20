@@ -7,3 +7,5 @@ last seen :
 last content:
 
 first content:
+hiding the last seen:
+
